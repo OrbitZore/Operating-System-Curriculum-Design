@@ -1,6 +1,6 @@
-# Data-Struct-Curriculum-design
+# Operator-System-Curriculum-Design 
 
-湖南科技大学数据结构课程设计实验报告存档
+湖南科技大学操作系统课程设计实验报告存档
 
 ## 特点
 
@@ -15,9 +15,11 @@
 ├── header        构建文档所需的头信息
 ├── LICENSE
 ├── makefile
-├── missfont.log
 ├── README.md
-└── src           源代码分日期存放位置
+├── ref			  课程设计指导书
+├── src			  源代码
+├── submit		  上传相关
+└── test		  自动测试相关内容
 ```
 ## 构建
 
